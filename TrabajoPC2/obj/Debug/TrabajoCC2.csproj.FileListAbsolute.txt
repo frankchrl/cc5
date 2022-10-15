@@ -1,0 +1,32 @@
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Administrador.resources
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Cliente.resources
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Form1.resources
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Properties.Resources.resources
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.exe
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.pdb
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\bin\Debug\TrabajoPC2.exe.config
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\bin\Debug\TrabajoPC2.exe
+C:\Users\kevin\Desktop\TrabajoPC2\TrabajoPC2\bin\Debug\TrabajoPC2.pdb
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\bin\Debug\TrabajoPC2.exe.config
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\bin\Debug\TrabajoPC2.exe
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\bin\Debug\TrabajoPC2.pdb
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.AssemblyReference.cache
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.SuggestedBindingRedirects.cache
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Administrador.resources
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Cliente.resources
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Form1.resources
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Properties.Resources.resources
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.GenerateResource.cache
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoCC2.csproj.CoreCompileInputs.cache
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.exe
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.pdb
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\bin\Debug\ko-KP\TrabajoPC2.resources.dll
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Form1.ko-KP.resources
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\ko-KP\TrabajoPC2.resources.dll
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\bin\Debug\es-419\TrabajoPC2.resources.dll
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\TrabajoPC2.Form1.es-419.resources
+D:\Documentos unmsm\cc5\practica\Trabajo CC3\TrabajoPC2\TrabajoPC2\obj\Debug\es-419\TrabajoPC2.resources.dll
